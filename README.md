@@ -96,16 +96,3 @@ MyTagManager/
 ## 📜 开源协议
 
 本项目采用 [MIT License](https://www.google.com/search?q=LICENSE) 开源。
-
------
-
-### 📝 路线图 (TODO)
-
-  - [ ] 增加视频鼠标悬停动态预览功能
-  - [ ] 增加 UI 暗黑模式/主题切换
-  - [ ] 支持重复文件夹/相似内容快速检测
-
-<!-- end list -->
-
-```
-```
