@@ -1,0 +1,15 @@
+# 忽略 Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 忽略本地数据库和缩略图（重要：不要把你的私有库传上去）
+libraries/
+global_config.db
+
+# 忽略 FFmpeg 二进制文件（建议在 README 中提供下载链接，而不是直接上传）
+ffmpeg.exe
+
+# 忽略操作系统临时文件
+.DS_Store
+Thumbs.db
