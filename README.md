@@ -61,19 +61,6 @@ python main.py
 
 -----
 
-## 📅 项目结构
-
-```text
-MyTagManager/
-├── main.py              # UI 交互与主逻辑
-├── library_engine.py    # 数据库管理与后台文件处理引擎
-├── ffmpeg.exe           # (需自行放置) 视频处理核心组件
-├── library.db           # (自动生成) 本地 SQLite 数据库
-└── thumbnails/          # (自动生成) 封面缩略图缓存目录
-```
-
------
-
 ## 💡 使用建议
 
 1.  **设置库路径**：首次启动后，点击左上角设置你的媒体资源存放的主目录。
